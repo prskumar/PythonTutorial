@@ -1,0 +1,3 @@
+This is my first file readin
+in python.Seems fun so far and 
+lets see how it goes.
